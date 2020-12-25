@@ -1,0 +1,25 @@
+dbt;
+    dbc 1;
+	att 80;  
+	dal 1;  
+	att 80; 
+	det; 
+	att 80;
+	mon 30;
+	att 80;
+	mav 80; 
+	att 80;
+	mar;
+	trd; 
+	att 80;
+	trg; 
+	att 80;
+	mre 254;
+	mof; 
+	att 80;
+	mar;
+	dal 1;
+	att 80;
+    fbc;	
+fin;
+
